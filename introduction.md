@@ -8,8 +8,7 @@ My favorite path is ASP.NET
 
 My Deadly Skills
 ==========================
-*C#
-*JavaScript
-*HTML
-*Killing history using git rebase
-*On More thing
++*C#
++*JavaScript
++*HTML
++*Killing history using git rebase
